@@ -1,4 +1,4 @@
-const CACHE_NAME = 'ers-launcher-shell-v1';
+const CACHE_NAME = 'ers-launcher-shell-v2';
 const SHELL_FILES = ['./', './index.html', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png'];
 
 self.addEventListener('install', event => {
